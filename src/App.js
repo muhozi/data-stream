@@ -1,5 +1,4 @@
 import React from 'react';
-import styled from 'styled-components';
 import { Router } from '@reach/router';
 import Home from './Pages/Home';
 import RealtimeDataChart from './Pages/RealtimeDataChart';
