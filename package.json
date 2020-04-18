@@ -1,5 +1,5 @@
 {
-  "name": "time-series-line-chart",
+  "name": "real-time-data-chart",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -13,6 +13,7 @@
     "styled-components": "5.0.1"
   },
   "devDependencies": {
+    "node-sass": "^4.13.1",
     "typescript": "3.3.3"
   },
   "scripts": {
@@ -26,5 +27,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "licence": "MIT"
 }
